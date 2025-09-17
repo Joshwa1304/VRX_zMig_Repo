@@ -42,4 +42,5 @@
            MOVE WS-PD      TO WS-EDITED.
            DISPLAY WS-EDITED.
            DISPLAY WS-EDITED.
+           DISPLAY WS-EDITED.
            GOBACK.
